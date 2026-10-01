@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect x="1" y="1" width="62" height="62" rx="3" fill="#070707" stroke="#f2d58a" stroke-width="2"/>
+  <text x="9" y="15" fill="#f2d58a" font-family="Arial, sans-serif" font-size="9">79</text>
+  <text x="32" y="41" text-anchor="middle" fill="#f2d58a" font-family="Arial, sans-serif" font-weight="700" font-size="28">Au</text>
+  <text x="32" y="55" text-anchor="middle" fill="#f2d58a" font-family="Arial, sans-serif" font-size="8">196.97</text>
+</svg>
