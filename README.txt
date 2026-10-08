@@ -34,3 +34,10 @@ AUREA — версия 2, вдохновлённая подачей соврем
 
 
 V5 note: MAX contact icon uses the Arcticons MAX Messenger outline mark (internet reference: https://svgicons.com/icon/229525/max-messenger). Official MAX brand colors/guidelines checked against https://go.max.ru/brandbook.
+
+
+Обновление 04.10.2026:
+- Добавлены реальные ссылки MAX, Telegram, VK, WhatsApp и e-mail.
+- Цены услуг синхронизированы с прайсом VK.
+- Добавлен проект «Авто Эксперт»: сайт, VK и Яндекс Бизнес.
+- Обновлены title, description, canonical, Open Graph, robots meta, schema.org, sitemap.xml и robots.txt.

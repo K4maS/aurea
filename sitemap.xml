@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://example.ru/</loc></url>
+  <url><loc>https://aurea-studio.ru/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://aurea-studio.ru/projects.html</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://aurea-studio.ru/services/web.html</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://aurea-studio.ru/services/print.html</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://aurea-studio.ru/services/invite.html</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://aurea-studio.ru/services/3d.html</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://aurea-studio.ru/services/social.html</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://aurea-studio.ru/services/yandex.html</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://aurea-studio.ru/cases/thermoprom.html</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://aurea-studio.ru/cases/invitation.html</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://aurea-studio.ru/cases/product-3d.html</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://aurea-studio.ru/cases/avtoexpert.html</loc><lastmod>2026-10-04</lastmod></url>
 </urlset>
